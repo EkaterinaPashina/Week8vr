@@ -1,0 +1,11 @@
+.button__text {
+    font-family: Intro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    margin-top: 4px;
+
+    color: white;
+    text-decoration: none;
+}

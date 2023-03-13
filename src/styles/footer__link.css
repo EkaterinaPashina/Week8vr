@@ -1,0 +1,11 @@
+.footer__link {
+    font-family: "Roboto Slab";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+
+    color: #5222D0;
+
+    text-decoration: none;
+}

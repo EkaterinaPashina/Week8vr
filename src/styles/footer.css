@@ -1,0 +1,5 @@
+.footer {
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+    margin-left: 5em;
+}

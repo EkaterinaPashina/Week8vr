@@ -1,0 +1,9 @@
+.main__header {
+    font-family: Intro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+    max-width: 542px;
+}

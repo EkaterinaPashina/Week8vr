@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Intro;
+    font-style: normal;
+    font-weight: 400;
+    src: url('/src/fonts/Intro.otf');
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.page {
+    display: grid;
+    grid-template-rows: 10% 80% 10%;
+    grid-template-columns: 1fr 1fr;
+}

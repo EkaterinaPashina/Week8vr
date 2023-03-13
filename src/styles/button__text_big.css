@@ -1,0 +1,10 @@
+.button__text_big {
+    font-family: Intro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 35px;
+
+    color: white;
+    text-decoration: none;
+}
