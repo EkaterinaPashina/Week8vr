@@ -1,6 +1,6 @@
 .footer__list {
     display: flex;
     justify-content: start;
-    gap: 34px;
+    gap: 30px;
     padding-left: 0;
 }
